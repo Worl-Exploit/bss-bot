@@ -1,6 +1,9 @@
 {
   "name": "bss-discord-auth",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "start": "node api.js & node bot.js"
   },
